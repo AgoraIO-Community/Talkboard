@@ -25,7 +25,7 @@ class SNSFirebase{
     private init(){
         
         FirebaseApp.configure()
-        firebase = Database.database().reference(fromURL: "https://fangyu123-a7d65.firebaseio.com/")
+        firebase = Database.database().reference(fromURL: "YOUR_REAL_RIME_DATABASE_URL")
         
         firebaseHandler = firebase.observe(.childAdded, with: {(snapshot: DataSnapshot)->Void in
             NotificationCenter.default.post(name: NSNotification.Name(rawValue: self.callbbackFromFirebase), object: nil, userInfo: ["send":snapshot])
