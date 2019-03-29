@@ -9,6 +9,8 @@ Submisson for AgoraIO HolidayHacks 2018, demo video: [here](https://www.youtube.
 Full-stack developer:
 [FangyuWu](https://github.com/WuFangyu).
 
+Tech stack: Swift3, Firebase(Real-time database)
+
 Run this app:
 
 Use cocoapod to install all Pods file (Podfile is alreay uploaded in this repo): pod install
