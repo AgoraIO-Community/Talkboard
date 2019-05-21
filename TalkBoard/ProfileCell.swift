@@ -1,11 +1,3 @@
-//
-//  ProfileCell.swift
-//  OpenLive
-//
-//  Created by GongYuhua on 6/26/16.
-//  Copyright © 2016 Agora. All rights reserved.
-//
-
 import UIKit
 import AgoraRtcEngineKit
 

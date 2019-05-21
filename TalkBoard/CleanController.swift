@@ -1,11 +1,3 @@
-//
-//  CleanController.swift
-//  OpenLive
-//
-//  Created by 吴方宇 on 2018-12-30.
-//  Copyright © 2018 Agora. All rights reserved.
-//
-
 import UIKit
 
 class CleanController: UIViewController {

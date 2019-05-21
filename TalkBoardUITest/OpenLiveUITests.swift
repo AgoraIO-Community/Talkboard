@@ -1,11 +1,3 @@
-//
-//  OpenLiveUITests.swift
-//  OpenLiveUITests
-//
-//  Created by GongYuhua on 2017/1/12.
-//  Copyright © 2017年 Agora. All rights reserved.
-//
-
 import XCTest
 
 class OpenLiveUITests: XCTestCase {
