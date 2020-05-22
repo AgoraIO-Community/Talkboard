@@ -1,6 +1,6 @@
 # Talkboard
 
-Talk is a real-time whiteboard sharing and video streamming iOS app.
+Talk is a real-time whiteboard sharing and video streaming iOS app.
 It combines two features of real-time whiteboard sharing and video call for multiple devices.
 **Users need to sign in with a unique group name to enable a whiteboard-sharing and video call. After signing in, all users with the same group name will be sharing a whiteboard (where any user in the group can draw on the whiteboard and the drawing will be shown on all other users' device in real time) and at the same time they can communicate via the group video call. (OpenLive)**  For creating a new account, fill in email&password fields and click 'Create an Account'. You can find more details about this app at [link](https://youtu.be/vlbphQe_DUk).
 
